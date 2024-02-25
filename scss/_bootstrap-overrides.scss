@@ -1,5 +1,11 @@
 .bg-primary {
   background-color: $primary !important;
+  background-image: url(photos/img2.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
 }
 
 .text-primary {
