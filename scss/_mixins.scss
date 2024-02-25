@@ -5,6 +5,12 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-image: url(/photos/img2.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
 }
 @mixin body-font {
   font-family: 'Open Sans', serif;
