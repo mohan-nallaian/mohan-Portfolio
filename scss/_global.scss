@@ -4,6 +4,12 @@ body {
   @include body-font;
   padding-top: 54px;
   color: $gray-600;
+  background-image: url(photos/img2.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
 }
 @media (min-width: 992px) {
   body {
